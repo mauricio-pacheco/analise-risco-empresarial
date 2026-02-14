@@ -96,4 +96,4 @@ Não utiliza frameworks ou bibliotecas externas.
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-avaliacao-risco.git
+git clone https://github.com/mauricio-pacheco/analise-risco-empresarial.git
